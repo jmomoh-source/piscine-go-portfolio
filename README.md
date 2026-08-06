@@ -1,4 +1,4 @@
-# 01Edu Go Piscine: Learning and Exam Portfolio
+# Go Piscine: Learning and Exam Portfolio
 
 ![Go Version](https://img.shields.io/badge/Go-1.26-00ADD8?logo=go)
 ![Piscine Status](https://img.shields.io/badge/Curriculum-100%25%20Completed-brightgreen)
